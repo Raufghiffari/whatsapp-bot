@@ -1,0 +1,23 @@
+{
+  "name": "whatsapp-bot",
+  "version": "1.0.0",
+  "description": "\"# Whatsapp Bot\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Raufghiffari/whatsapp-bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Raufghiffari/whatsapp-bot/issues"
+  },
+  "homepage": "https://github.com/Raufghiffari/whatsapp-bot#readme",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.16"
+  }
+}
